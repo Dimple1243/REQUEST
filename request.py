@@ -67,4 +67,3 @@ while topic <= len(deta["course"]["exercises"]):
     else:
         print("wrong user_input ")
         break
-Footer
